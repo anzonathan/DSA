@@ -8,3 +8,7 @@ Written sometimes in Python, sometimes in C++
 2. [cProfile](https://docs.python.org/3/library/profile.html) - Identifies parts of your code that takes up the most resources (Included as standard python module)
 3. [memory_profiler](https://pypi.org/project/memory-profiler/) - Identifies parts of the code that takes up the most memory
 4. [timeit](https://docs.python.org/3/library/timeit.html#timeit.timeit) - Times how long the code takes to execute.
+
+
+### Math Operations
+1. [Fractorial]()
