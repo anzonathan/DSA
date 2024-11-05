@@ -9,6 +9,8 @@ Written sometimes in Python, sometimes in C++
 3. [memory_profiler](https://pypi.org/project/memory-profiler/) - Identifies parts of the code that takes up the most memory
 4. [timeit](https://docs.python.org/3/library/timeit.html#timeit.timeit) - Times how long the code takes to execute.
 
+### Tools
+1. [Visualization](https://visualgo.net/en)
 
 ### Math Operations
 1. [Factorial](https://github.com/anzonathan/DSA/blob/main/Factorials.ipynb)
