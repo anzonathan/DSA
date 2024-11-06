@@ -14,3 +14,6 @@ Written sometimes in Python, sometimes in C++
 
 ### Math Operations
 1. [Factorial](https://github.com/anzonathan/DSA/blob/main/Factorials.ipynb)
+
+### Sorting Algorithms
+1. [Random Sort]()
