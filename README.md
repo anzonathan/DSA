@@ -1,6 +1,8 @@
 # DSA
 *Data Structures and Algorithms*
 
+- A data structure is a specialized format for organizing, processing, retrieving and storing data.
+- An algorithm is a procedure used for solving a problem or performing a computation.
 Written sometimes in Python, sometimes in C++
 
 ### Python Modules
